@@ -77,13 +77,9 @@ To configure it for this sample, follow the steps outlined in the `Configuring a
 Building and running
 ********************
 
-This sample can be found under :file:`samples/bm_zms` in the |BMshort| folder structure.
+This sample can be found under :file:`samples/subsys/fs/bm_zms/` in the |BMshort| folder structure.
 
-.. include:: /includes/create_sample.txt
-
-.. include:: /includes/configure_and_build_sample.txt
-
-.. include:: /includes/program_sample.txt
+For details on how to create, configure, and program a sample, see :ref:`getting_started_with_the_samples`.
 
 Testing
 =======
