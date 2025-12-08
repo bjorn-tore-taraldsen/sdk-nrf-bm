@@ -89,17 +89,15 @@ Make sure the ``REQ`` pin on one board is connected to the ``RDY`` on the other 
    With the LPUARTE configuration, the console is used only for application logging and not for NUS data.
    Output on the NUS TX line will be handled as input on the NUS RX line on the same device (loopback) or as NUS input to the other device (when using two devices).
 
-
-Playing with the sample
-***********************
+Building and running
+********************
 
 This sample can be found under :file:`samples/bluetooth/ble_nus/` in the |BMshort| folder structure.
 
-For details on how to create, configure and program a sample see :ref:`getting_started_with_the_samples`.
-
+For details on how to create, configure, and program a sample, see :ref:`getting_started_with_the_samples`.
 
 Testing
-*******
+=======
 
 The following steps are valid for the default sample configuration.
 It does not use the Low Power UARTE (LPUARTE) configuration fragment.

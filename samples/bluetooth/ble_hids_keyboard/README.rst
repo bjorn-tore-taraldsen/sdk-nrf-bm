@@ -101,16 +101,15 @@ LED 1:
 LED 3:
    Lit when Caps Lock is on.
 
-Playing with the sample
-***********************
+Building and running
+********************
 
 This sample can be found under :file:`samples/bluetooth/ble_hids_keyboard/` in the |BMshort| folder structure.
 
-For details on how to create, configure and program a sample see :ref:`getting_started_with_the_samples`.
-
+For details on how to create, configure, and program a sample, see :ref:`getting_started_with_the_samples`.
 
 Testing
-*******
+=======
 
 1. Compile and program the application.
 #. In the Serial Terminal, using the `Serial Terminal app`_ or |VSC|, observe that the ``BLE HIDS Keyboard sample started.`` message is printed.

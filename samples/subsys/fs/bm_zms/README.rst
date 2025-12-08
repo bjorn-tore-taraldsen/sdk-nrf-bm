@@ -74,17 +74,15 @@ By default, the sample uses the SoftDevice storage backend.
 To build the sample for the RRAM backend, you can use the :file:`backend-rram.conf` Kconfig fragment.
 To configure it for this sample, follow the steps outlined in the `Configuring and building the sample`_ section.
 
-
-Playing with the sample
-***********************
+Building and running
+********************
 
 This sample can be found under :file:`samples/subsys/fs/bm_zms/` in the |BMshort| folder structure.
 
-For details on how to create, configure and program a sample see :ref:`getting_started_with_the_samples`.
-
+For details on how to create, configure, and program a sample, see :ref:`getting_started_with_the_samples`.
 
 Testing
-*******
+=======
 
 You can test this sample by performing the following steps:
 

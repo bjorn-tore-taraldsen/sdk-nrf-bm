@@ -71,16 +71,15 @@ The LED Button Service (LBS) is a custom service that receives information about
 
 You can use the sample to transmit the button state from your development kit to another device.
 
-Playing with the sample
-***********************
+Building and running
+********************
 
 This sample can be found under :file:`samples/bluetooth/ble_lbs/` in the |BMshort| folder structure.
 
-For details on how to create, configure and program a sample see :ref:`getting_started_with_the_samples`.
-
+For details on how to create, configure, and program a sample, see :ref:`getting_started_with_the_samples`.
 
 Testing
-*******
+=======
 
 You can test this sample using `nRF Connect for Desktop`_ with the `Bluetooth Low Energy app`_ and the `Serial Terminal app`_.
 Make sure that these are installed before starting the testing procedure.

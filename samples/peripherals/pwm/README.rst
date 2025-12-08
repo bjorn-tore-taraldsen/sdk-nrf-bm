@@ -75,17 +75,15 @@ The sample initializes a PWM instance that blinks **LED 1** and **LED 3** on the
   For the nRF54L Series, there is only one domain which contains both PWM and GPIO: PWM20/21/22 and GPIO Port P1.
   Therefore, for these devices, only LEDs connected to P1 can work with PWM - for the nRF54L15 DK these are **LED 1** and **LED 3**.
 
-
-Playing with the sample
-***********************
+Building and running
+********************
 
 This sample can be found under :file:`samples/peripherals/pwm/` in the |BMshort| folder structure.
 
-For details on how to create, configure and program a sample see :ref:`getting_started_with_the_samples`.
-
+For details on how to create, configure, and program a sample, see :ref:`getting_started_with_the_samples`.
 
 Testing
-*******
+=======
 
 You can test this sample by performing the following steps:
 

@@ -71,15 +71,15 @@ This sample can be found under :file:`samples/peripherals/timer/` in the |BMshor
 
 The single-shot timer is used to sequence a series of actions (logging ``Hello``, ``world!``, and ``bye!``), while the periodic timer provides a visual indication of ongoing activity.
 
+Building and running
+********************
 
-Playing with the sample
-***********************
+This sample can be found under :file:`samples/peripherals/timer/` in the |BMshort| folder structure.
 
 For details on how to create, configure and program a sample see :ref:`getting_started_with_the_samples`.
 
-
 Testing
-*******
+=======
 
 You can test this sample by performing the following steps:
 

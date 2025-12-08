@@ -102,16 +102,15 @@ LED 0:
 LED 1:
    Lit when a device is connected.
 
-Playing with the sample
-***********************
+Building and running
+********************
 
 This sample can be found under :file:`samples/bluetooth/ble_hids_mouse/` in the |BMshort| folder structure.
 
-For details on how to create, configure and program a sample see :ref:`getting_started_with_the_samples`.
-
+For details on how to create, configure, and program a sample, see :ref:`getting_started_with_the_samples`.
 
 Testing
-*******
+=======
 
 You can test this sample using a computer or a smartphone.
 

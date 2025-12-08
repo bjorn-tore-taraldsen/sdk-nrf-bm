@@ -70,16 +70,15 @@ Overview
 The sample initializes the radio notification library and registers a handler that triggers both when the radio is enabled and when it is disabled.
 The handler then toggles **LED 0** based on the current state of the radio.
 
-Playing with the sample
-***********************
+Building and running
+********************
 
 This sample can be found under :file:`samples/bluetooth/ble_radio_notification/` in the |BMshort| folder structure.
 
-For details on how to create, configure and program a sample see :ref:`getting_started_with_the_samples`.
-
+For details on how to create, configure, and program a sample, see :ref:`getting_started_with_the_samples`.
 
 Testing
-*******
+=======
 
 You can test this sample using `nRF Connect for Desktop`_ with the `Serial Terminal app`_.
 Make sure that these are installed before starting the testing procedure.

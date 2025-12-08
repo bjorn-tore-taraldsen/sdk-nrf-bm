@@ -64,16 +64,15 @@ The sample supports the following development kits:
            - S115
            - bm_nrf54l15dk/nrf54l05/cpuapp/s115_softdevice/mcuboot
 
-Playing with the sample
-***********************
+Building and running
+********************
 
 This sample can be found under :file:`samples/peripherals/buttons/` in the |BMshort| folder structure.
 
-For details on how to create, configure and program a sample see :ref:`getting_started_with_the_samples`.
-
+For details on how to create, configure, and program a sample, see :ref:`getting_started_with_the_samples`.
 
 Testing
-*******
+=======
 
 You can test this sample by performing the following steps:
 

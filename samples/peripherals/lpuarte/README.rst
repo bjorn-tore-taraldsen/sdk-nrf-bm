@@ -86,17 +86,15 @@ The sample initializes the application LPUARTE instance, specified in the :file:
 It then implements a simple loopback using a single LPUARTE instance.
 By default, the console and logging are disabled to demonstrate low power consumption when UART is active.
 
-
-Playing with the sample
-***********************
+Building and running
+********************
 
 This sample can be found under :file:`samples/peripherals/lpuarte/` in the |BMshort| folder structure.
 
-For details on how to create, configure and program a sample see :ref:`getting_started_with_the_samples`.
-
+For details on how to create, configure, and program a sample, see :ref:`getting_started_with_the_samples`.
 
 Testing
-*******
+=======
 
 You can test this sample by performing the following steps:
 

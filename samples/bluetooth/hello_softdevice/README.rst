@@ -72,14 +72,12 @@ Overview
 The sample demonstrates the basic management of the SoftDevice in |BMlong|.
 It shows how to enable and disable the SoftDevice, handle various types of events related to the SoftDevice, and manage the Bluetooth LE functionality.
 
-
-Playing with the sample
-***********************
+Building and running
+********************
 
 This sample can be found under :file:`samples/bluetooth/hello_softdevice/` in the |BMshort| folder structure.
 
-For details on how to create, configure and program a sample see :ref:`getting_started_with_the_samples`.
-
+For details on how to create, configure, and program a sample, see :ref:`getting_started_with_the_samples`.
 
 Testing
 =======

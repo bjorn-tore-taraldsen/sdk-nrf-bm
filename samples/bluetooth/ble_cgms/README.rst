@@ -69,16 +69,15 @@ Overview
 
 The Continuous Glucose Monitoring Service (CGMS) is a service that exposes glucose and other data from a personal Continuous Glucose Monitoring sensor.
 
-Playing with the sample
-***********************
+Building and running
+********************
 
-his sample can be found under :file:`samples/bluetooth/ble_cgms/` in the |BMshort| folder structure.
+This sample can be found under :file:`samples/bluetooth/ble_cgms/` in the |BMshort| folder structure.
 
-For details on how to create, configure and program a sample see :ref:`getting_started_with_the_samples`.
-
+For details on how to create, configure, and program a sample, see :ref:`getting_started_with_the_samples`.
 
 Testing
-*******
+=======
 
 1. Compile and program the application.
 #. Connect the device to the computer.
